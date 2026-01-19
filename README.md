@@ -1,3 +1,10 @@
+
+<img width="1903" height="1079" alt="Screenshot 2026-01-19 173408" src="https://github.com/user-attachments/assets/542eb26e-9dce-46cc-b7e2-09d856a87190" />
+<img width="1919" height="1079" alt="Screenshot 2026-01-19 173444" src="https://github.com/user-attachments/assets/1913c6fa-70eb-4cb4-a881-c1f48d7ff824" />
+<img width="1919" height="1079" alt="Screenshot 2026-01-19 173436" src="https://github.com/user-attachments/assets/e48a1c86-fc97-4464-8c96-73b2d95e5cca" />
+<img width="1919" height="1079" alt="Screenshot 2026-01-19 173426" src="https://github.com/user-attachments/assets/b656df9a-1b5d-48b3-a5b6-8ea6ec046eb3" />
+<img width="1919" height="1079" alt="Screenshot 2026-01-19 173415" src="https://github.com/user-attachments/assets/3c87faff-a242-4430-a010-09b5dc7a5367" />
+
 # ChatPulse
 
 https://github.com/100ASSASSIN/ChatPulse.git
