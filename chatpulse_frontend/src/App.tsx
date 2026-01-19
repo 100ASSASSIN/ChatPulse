@@ -913,11 +913,11 @@ const App: React.FC = () => {
         <div style={styles.container}>
           <div style={styles.headerContent}>
             <div style={styles.logoSection}>
-              <div style={styles.headerLogo}>
+              {/* <div style={styles.headerLogo}>
                 <MessageIcon />
-              </div>
+              </div> */}
               <div>
-                <h1 style={styles.headerTitle}>ChatPulse Analytics</h1>
+                <h1 style={styles.headerTitle}>CHAT ANALYTICS</h1>
                 <p style={styles.headerSubtitle}>Enterprise-grade WhatsApp chat analytics</p>
               </div>
             </div>
@@ -1100,9 +1100,9 @@ const App: React.FC = () => {
             )}
 
             {/* Empty State (when no file uploaded) */}
-            {!chatData && !loading && showUploadArea && (
-              <div style={styles.card} className="animate-fadeIn">
-                <div style={styles.emptyState}>
+            {/* {!chatData && !loading && showUploadArea && ( */}
+              {/* <div style={styles.card} className="animate-fadeIn"> */}
+                {/* <div style={styles.emptyState}>
                   <div style={styles.emptyIcon}>
                     <ChartIcon />
                   </div>
@@ -1121,9 +1121,9 @@ const App: React.FC = () => {
                     <UploadIcon />
                     Start Analysis
                   </button>
-                </div>
-              </div>
-            )}
+                </div> */}
+              {/* </div> */}
+            {/* )} */}
           </div>
 
           {/* Sidebar */}
@@ -1264,7 +1264,7 @@ const App: React.FC = () => {
       </main>
 
       {/* Footer */}
-      <footer style={styles.footer}>
+      {/* <footer style={styles.footer}>
         <div style={styles.container}>
           <div style={styles.footerContent}>
             <p style={styles.footerText}>
@@ -1282,7 +1282,7 @@ const App: React.FC = () => {
             All analysis occurs in-memory and is discarded after your session.
           </p>
         </div>
-      </footer>
+      </footer> */}
     </div>
   );
 };
